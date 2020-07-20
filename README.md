@@ -9,7 +9,7 @@ Skills: C# / JS / TS
 
 🔭 I’m currently working on .Net related technologies\
 🌱 I’m currently learning Typescript and React Native\
-📫 How to reach me: Everywhere \
+📫 How to reach me: Everywhere
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/emrekas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/emre-kas/)  
 

@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Emre
-#### I love learning new things 🤓
-![I love learning new things 🤓](https://raw.githubusercontent.com/emrekas/emrekas/master/BH_E1-Garver.png)
+#### I love to learn new things 
+![I love learning new things ](https://raw.githubusercontent.com/emrekas/emrekas/master/BH_E1-Garver.png)
 
 I am currently working .Net technologies.\
 I am interesting TypeScript, JavaScript, ReactNative\

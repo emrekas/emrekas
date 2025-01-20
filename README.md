@@ -11,5 +11,3 @@ Skills: C# / JS / TS
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=emrekas&show_icons=true) 
 </br>
-</br>
-![Profile views](https://gpvc.arturio.dev/emrekas)  
